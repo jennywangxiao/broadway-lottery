@@ -12,8 +12,8 @@ const stealth = stealthPlugin();
 chromium.use(stealth);
 
 const urls = [
-  "https://lottery.broadwaydirect.com/show/mj-ny/",
-  "https://lottery.broadwaydirect.com/show/the-lion-king/",
+ // "https://lottery.broadwaydirect.com/show/mj-ny/",
+// "https://lottery.broadwaydirect.com/show/the-lion-king/",
  // "https://lottery.broadwaydirect.com/show/six-ny/",
  // "https://lottery.broadwaydirect.com/show/aladdin/",
   // "https://lottery.broadwaydirect.com/show/sweeney-todd-ny/",
